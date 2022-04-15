@@ -1,0 +1,22 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: the annotated method sends the REST requests.
+- text: the annotated class provides methods to send the REST requests.
+- text: the annotated class provides handler methods for the REST requests.
+- text: the annotated method is a handler for the REST requests.
+files:
+- name: src/Task.java
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    public class Task {
+      public static void main(String[] args) {
+        // put your code here
+      }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/7017#comment
+status: Solved
+record: -1

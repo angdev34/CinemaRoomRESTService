@@ -1,0 +1,28 @@
+<h2>Guess the request</h2>
+<html>
+ <head></head>
+ <body>
+  <p>Look at the controller class:</p> 
+  <pre><code class="language-java">@RestController("/lines")
+public class LinesController {
+
+    private List&lt;String&gt; strings;
+
+    public LinesController() {
+        strings = new ArrayList&lt;&gt;();
+        strings.add("zero line");
+        strings.add("first line");
+        strings.add("second line");
+    }
+    
+    @GetMapping("/{id}")
+    public String getLine(@PathVariable int id){
+        return strings.get(id);
+    }
+
+}</code></pre> 
+  <p>and the response that a user got from it:</p> 
+  <pre><code class="language-json">"second line"</code></pre> 
+  <p>Guess which of the following requests has been given to a server:</p>
+ </body>
+</html>

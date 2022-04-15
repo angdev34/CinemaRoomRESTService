@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#JAVA_INTERNAL" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Topics/ArrayList/Creating list" />
+            <option value="$PROJECT_DIR$/Topics/ArrayList/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Constructor/Geometric cube" />
+            <option value="$PROJECT_DIR$/Topics/Constructor/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Defining classes/Inner boxes" />
+            <option value="$PROJECT_DIR$/Topics/Defining classes/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Errors in programs/Fix compile-time errors" />
+            <option value="$PROJECT_DIR$/Topics/Errors in programs/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Generics and Object/Boxes are not just objects" />
+            <option value="$PROJECT_DIR$/Topics/Generics and Object/Correct the usage of non-generic class" />
+            <option value="$PROJECT_DIR$/Topics/Generics and Object/Initialize an object of a generic class" />
+            <option value="$PROJECT_DIR$/Topics/Generics and Object/Reusing code with Object" />
+            <option value="$PROJECT_DIR$/Topics/Generics and Object/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Generics and Object/What is a type" />
+            <option value="$PROJECT_DIR$/Topics/Generics and Object/What is wrong" />
+            <option value="$PROJECT_DIR$/Topics/Getters and setters/Account" />
+            <option value="$PROJECT_DIR$/Topics/Getters and setters/Book" />
+            <option value="$PROJECT_DIR$/Topics/Getters and setters/Complex" />
+            <option value="$PROJECT_DIR$/Topics/Getters and setters/Getting the fullname" />
+            <option value="$PROJECT_DIR$/Topics/Getters and setters/The name of getter" />
+            <option value="$PROJECT_DIR$/Topics/Getters and setters/The name of setter" />
+            <option value="$PROJECT_DIR$/Topics/Getters and setters/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Instance methods/Counter" />
+            <option value="$PROJECT_DIR$/Topics/Instance methods/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Introduction to generic programming/Correct the program" />
+            <option value="$PROJECT_DIR$/Topics/Introduction to generic programming/Declaring generic classes" />
+            <option value="$PROJECT_DIR$/Topics/Introduction to generic programming/Declaring generic classes - 2" />
+            <option value="$PROJECT_DIR$/Topics/Introduction to generic programming/Generic parameter values" />
+            <option value="$PROJECT_DIR$/Topics/Introduction to generic programming/Pastry packing optimization" />
+            <option value="$PROJECT_DIR$/Topics/Introduction to generic programming/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Introduction to generic programming/Type arguments" />
+            <option value="$PROJECT_DIR$/Topics/NPE/Avoid NPE" />
+            <option value="$PROJECT_DIR$/Topics/NPE/Avoid NPE with strings" />
+            <option value="$PROJECT_DIR$/Topics/NPE/Code that throws an exception" />
+            <option value="$PROJECT_DIR$/Topics/NPE/Lines that may throw NPE" />
+            <option value="$PROJECT_DIR$/Topics/NPE/Theory" />
+            <option value="$PROJECT_DIR$/Topics/NPE/Unknown input" />
+            <option value="$PROJECT_DIR$/Topics/NPE/When NPE cannot occur" />
+            <option value="$PROJECT_DIR$/Topics/NPE/Where NPE may occur" />
+            <option value="$PROJECT_DIR$/Topics/NPE/Where NPE might occur" />
+            <option value="$PROJECT_DIR$/Topics/Package/Getting input" />
+            <option value="$PROJECT_DIR$/Topics/Package/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Primitive and reference types/Code with nulls" />
+            <option value="$PROJECT_DIR$/Topics/Primitive and reference types/Creating a primitive" />
+            <option value="$PROJECT_DIR$/Topics/Primitive and reference types/Creating a reference type" />
+            <option value="$PROJECT_DIR$/Topics/Primitive and reference types/Theory" />
+            <option value="$PROJECT_DIR$/Topics/The Collections Framework overview/Blacklist" />
+            <option value="$PROJECT_DIR$/Topics/The Collections Framework overview/Supported collections" />
+            <option value="$PROJECT_DIR$/Topics/The Collections Framework overview/Theory" />
+            <option value="$PROJECT_DIR$/Topics/The main method/Print  We are robots" />
+            <option value="$PROJECT_DIR$/Topics/The main method/Theory" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

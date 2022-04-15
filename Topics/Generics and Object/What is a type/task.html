@@ -1,0 +1,17 @@
+<h2>What is a type</h2>
+<html>
+ <head></head>
+ <body>
+  <p>What type is chosen as parameter type <code class="language-java">T</code> in the following code:</p> 
+  <pre><code class="language-java">Box box = new Box();
+box.set(10L);</code></pre> 
+  <p>Here, <code class="language-java">Box</code> is a generic class:</p> 
+  <pre><code class="language-java">class Box&lt;T&gt; {
+    T value;
+
+    void set(T value) {
+        this.value = value;
+    }
+}</code></pre>
+ </body>
+</html>
