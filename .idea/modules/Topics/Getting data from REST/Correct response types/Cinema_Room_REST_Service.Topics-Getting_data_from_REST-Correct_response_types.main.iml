@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Topics-Getting_data_from_REST-Correct_response_types:main" external.linked.project.path="$MODULE_DIR$/../../../../../Topics/Getting data from REST/Correct response types" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="GRADLE" external.system.module.group="Cinema Room REST Service" external.system.module.type="sourceSet" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_11">
+    <output url="file://$MODULE_DIR$/../../../../../Topics/Getting data from REST/Correct response types/out/production/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../Topics/Getting data from REST/Correct response types/src">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../Topics/Getting data from REST/Correct response types/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

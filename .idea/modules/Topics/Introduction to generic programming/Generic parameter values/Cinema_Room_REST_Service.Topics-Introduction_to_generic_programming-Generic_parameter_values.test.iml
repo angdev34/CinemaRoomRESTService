@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<module external.linked.project.id=":Topics-Introduction_to_generic_programming-Generic_parameter_values:test" external.linked.project.path="$MODULE_DIR$/../../../../../Topics/Introduction to generic programming/Generic parameter values" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="GRADLE" external.system.module.group="Cinema_Room_REST_Service" external.system.module.type="sourceSet" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+<module external.linked.project.id=":Topics-Introduction_to_generic_programming-Generic_parameter_values:test" external.linked.project.path="$MODULE_DIR$/../../../../../Topics/Introduction to generic programming/Generic parameter values" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="GRADLE" external.system.module.group="Cinema Room REST Service" external.system.module.type="sourceSet" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager">
     <output-test url="file://$MODULE_DIR$/../../../../../Topics/Introduction to generic programming/Generic parameter values/out/test/classes" />
     <exclude-output />

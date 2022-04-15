@@ -12,6 +12,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Cinema Room REST Service/task" />
             <option value="$PROJECT_DIR$/Topics/ArrayList/Creating list" />
             <option value="$PROJECT_DIR$/Topics/ArrayList/Theory" />
             <option value="$PROJECT_DIR$/Topics/Constructor/Geometric cube" />
@@ -34,6 +35,11 @@
             <option value="$PROJECT_DIR$/Topics/Getters and setters/The name of getter" />
             <option value="$PROJECT_DIR$/Topics/Getters and setters/The name of setter" />
             <option value="$PROJECT_DIR$/Topics/Getters and setters/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Getting data from REST/@RestController annotation" />
+            <option value="$PROJECT_DIR$/Topics/Getting data from REST/Add annotations" />
+            <option value="$PROJECT_DIR$/Topics/Getting data from REST/Correct response types" />
+            <option value="$PROJECT_DIR$/Topics/Getting data from REST/Guess the request" />
+            <option value="$PROJECT_DIR$/Topics/Getting data from REST/Theory" />
             <option value="$PROJECT_DIR$/Topics/Instance methods/Counter" />
             <option value="$PROJECT_DIR$/Topics/Instance methods/Theory" />
             <option value="$PROJECT_DIR$/Topics/Introduction to generic programming/Correct the program" />
