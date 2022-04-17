@@ -2,8 +2,8 @@ type: choice
 is_multiple_choice: true
 options:
 - text: Objects.equals(name, surname)
-- text: name.equals(surname)
 - text: name.length()
+- text: name.equals(surname)
 - text: '"Harrison".equals(name)'
 files:
 - name: src/Task.java

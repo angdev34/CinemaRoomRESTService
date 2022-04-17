@@ -13,6 +13,12 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/Cinema Room REST Service/task" />
+            <option value="$PROJECT_DIR$/Cinema Room REST Service/task/build/classes/java" />
+            <option value="$PROJECT_DIR$/Cinema Room REST Service/task/build/generated/sources/annotationProcessor/java" />
+            <option value="$PROJECT_DIR$/Cinema Room REST Service/task/build/generated/sources/headers/java" />
+            <option value="$PROJECT_DIR$/Cinema Room REST Service/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Cinema Room REST Service/task/build/test-results" />
+            <option value="$PROJECT_DIR$/Cinema Room REST Service/task/build/tmp" />
             <option value="$PROJECT_DIR$/Topics/ArrayList/Creating list" />
             <option value="$PROJECT_DIR$/Topics/ArrayList/Theory" />
             <option value="$PROJECT_DIR$/Topics/Constructor/Geometric cube" />
@@ -64,6 +70,13 @@
             <option value="$PROJECT_DIR$/Topics/Primitive and reference types/Creating a primitive" />
             <option value="$PROJECT_DIR$/Topics/Primitive and reference types/Creating a reference type" />
             <option value="$PROJECT_DIR$/Topics/Primitive and reference types/Theory" />
+            <option value="$PROJECT_DIR$/Topics/String/Comparing strings" />
+            <option value="$PROJECT_DIR$/Topics/String/Extracting a character" />
+            <option value="$PROJECT_DIR$/Topics/String/Extracting a substring" />
+            <option value="$PROJECT_DIR$/Topics/String/Find true expressions" />
+            <option value="$PROJECT_DIR$/Topics/String/Statements" />
+            <option value="$PROJECT_DIR$/Topics/String/Statements (1)" />
+            <option value="$PROJECT_DIR$/Topics/String/Theory" />
             <option value="$PROJECT_DIR$/Topics/The Collections Framework overview/Blacklist" />
             <option value="$PROJECT_DIR$/Topics/The Collections Framework overview/Supported collections" />
             <option value="$PROJECT_DIR$/Topics/The Collections Framework overview/Theory" />

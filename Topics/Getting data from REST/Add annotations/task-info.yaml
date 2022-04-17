@@ -159,9 +159,5 @@ files:
     }
   learner_created: false
 feedback_link: https://hyperskill.org/learn/step/14595#comment
-status: Unchecked
-feedback:
-  message: No tests have run. For more information, see <a href="https://plugins.jetbrains.com/plugin/10081-edutools/docs/troubleshooting-guide.html#no_tests_have_run">the
-    Troubleshooting guide</a>
-  time: Fri, 15 Apr 2022 09:08:02 UTC
+status: Solved
 record: -1
