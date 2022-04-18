@@ -55,6 +55,8 @@
             <option value="$PROJECT_DIR$/Topics/Introduction to generic programming/Pastry packing optimization" />
             <option value="$PROJECT_DIR$/Topics/Introduction to generic programming/Theory" />
             <option value="$PROJECT_DIR$/Topics/Introduction to generic programming/Type arguments" />
+            <option value="$PROJECT_DIR$/Topics/Iterating over arrays/Does an array contain N" />
+            <option value="$PROJECT_DIR$/Topics/Iterating over arrays/Theory" />
             <option value="$PROJECT_DIR$/Topics/NPE/Avoid NPE" />
             <option value="$PROJECT_DIR$/Topics/NPE/Avoid NPE with strings" />
             <option value="$PROJECT_DIR$/Topics/NPE/Code that throws an exception" />

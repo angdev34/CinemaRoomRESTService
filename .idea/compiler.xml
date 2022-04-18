@@ -45,6 +45,8 @@
       <module name="Cinema_Room_REST_Service.Topics-Introduction_to_generic_programming-Pastry_packing_optimization.main" target="11" />
       <module name="Cinema_Room_REST_Service.Topics-Introduction_to_generic_programming-Theory.main" target="11" />
       <module name="Cinema_Room_REST_Service.Topics-Introduction_to_generic_programming-Type_arguments.main" target="11" />
+      <module name="Cinema_Room_REST_Service.Topics-Iterating_over_arrays-Does_an_array_contain_N.main" target="11" />
+      <module name="Cinema_Room_REST_Service.Topics-Iterating_over_arrays-Theory.main" target="11" />
       <module name="Cinema_Room_REST_Service.Topics-NPE-Avoid_NPE.main" target="11" />
       <module name="Cinema_Room_REST_Service.Topics-NPE-Avoid_NPE_with_strings.main" target="11" />
       <module name="Cinema_Room_REST_Service.Topics-NPE-Code_that_throws_an_exception.main" target="11" />
