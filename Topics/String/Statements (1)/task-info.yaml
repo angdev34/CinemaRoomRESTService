@@ -1,0 +1,25 @@
+type: choice
+is_multiple_choice: true
+options:
+- text: A string is a sequence of characters.
+- text: Two strings can be concatenated using the operation <b>+</b>.
+- text: String is a primitive data type.
+- text: ' Strings are immutable.'
+- text: 'A string has the method named <b>size()</b> that returns a number of characters
+    in this string. '
+files:
+- name: src/Task.java
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    public class Task {
+      public static void main(String[] args) {
+        // put your code here
+      }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2061#comment
+status: Solved
+record: -1
+custom_name: Statements
